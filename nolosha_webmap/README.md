@@ -4,9 +4,9 @@
 Resource that provide endpoint for the nolosha_webmap_web interface.
 
 ## Installation 
-add folder nolosha_webmap on u resources.cfg : ensure nolosha_webmap
-Host the folder nolosha_http_file on ur web host 
-Configure ur config.json with the URL of ur game server.
+add folder nolosha_webmap on u resources.cfg : ensure nolosha_webmap<br>
+Host the folder nolosha_http_file on ur web host <br>
+Configure ur config.json with the URL of ur game server.<br>
 
 
 ## Config.lua
