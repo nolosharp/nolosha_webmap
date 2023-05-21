@@ -2,6 +2,7 @@
 
 ## Description
 Resource that provide endpoint for the nolosha_webmap_web interface.
+Movie : https://www.youtube.com/watch?v=m92JXF64_Co
 
 ## Installation 
 1. add folder nolosha_webmap on u resources.cfg : ensure nolosha_webmap
